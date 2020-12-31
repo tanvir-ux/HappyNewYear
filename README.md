@@ -4,4 +4,4 @@
 ![screenshot](images/HappyNewYearFinal.png)
 
 ### test cases on browser
-![testCases](testCases.png)
+![testCases](images/testCases.png)
